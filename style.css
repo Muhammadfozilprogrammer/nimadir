@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  color: brown;
+  font-size: 24px;
+  padding: 20px;
+  font-weight: 900;
+}
+h1:hover{
+  font-weight: 900;
+  color: cadetblue;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+}
+body{
+background-color: rgb(53, 32, 25);
+}
